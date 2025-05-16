@@ -1,12 +1,11 @@
 ## Hi, I'm Mitchell Ly 👋
 
-I'm a Computer Science graduate from the University of Washington, with a passion for front-end/full-stack development.
+I'm a Computer Science graduate from the University of Washington, with a passion for front-end and full-stack development.
 
-- 🌱 I’m currently learning on my AWS Certified Developer Associate Certification to learn cloud development and deployment using AWS services.
+- 🌱 I’m currently working on my AWS Certified Developer Associate Certification to learn cloud development and deployment using AWS services.
 
 ## 📫 How to reach me: ...
 - 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/mitchly)
-- 💼 [Resume](https://your-resume-link.com)
 - ✉️ Email: mitchly1@gmail.com
 <!--
 **mitchly9/mitchly9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,4 +20,6 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 💼 [My Portfolio](https://your-resume-link.com)
 -->
